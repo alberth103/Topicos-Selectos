@@ -1,0 +1,6 @@
+C:\Ahorcado\Ahorcado\obj\Debug\AhorcadoService.csproj.CoreCompileInputs.cache
+C:\Ahorcado\Ahorcado\obj\Debug\Ahorcado.dll
+C:\Ahorcado\Ahorcado\obj\Debug\Ahorcado.pdb
+C:\Ahorcado\Ahorcado\bin\Debug\Ahorcado.dll.config
+C:\Ahorcado\Ahorcado\bin\Debug\Ahorcado.dll
+C:\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb

@@ -1,0 +1,7 @@
+C:\Ahorcado\AhorcadoApp\bin\Debug\AhorcadoApp.exe.config
+C:\Ahorcado\AhorcadoApp\bin\Debug\AhorcadoApp.exe
+C:\Ahorcado\AhorcadoApp\bin\Debug\AhorcadoApp.pdb
+C:\Ahorcado\AhorcadoApp\obj\Debug\AhorcadoApp.csproj.CoreCompileInputs.cache
+C:\Ahorcado\AhorcadoApp\obj\Debug\AhorcadoApp.exe
+C:\Ahorcado\AhorcadoApp\obj\Debug\AhorcadoApp.pdb
+C:\Ahorcado\AhorcadoApp\obj\Debug\AhorcadoApp.csprojAssemblyReference.cache
